@@ -28,10 +28,11 @@ repertoire</h2>
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/><br><br>
 
 <p> 
-Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. While AWS I'm certified with AWS I'm more than happy to learn other cloud service providers such as Azure and GCP should my job require it. I'm Committed to staying in touch with current and emerging technologies in the IT industry to be the dev I can be. I am fimiliar with Agile project management and embrass all of its methodologies, I'm seeking to be part of a dymanic team where I can contribute my knowledge and skillset to drive projects forward while exceeding clients expectations.
+Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. While I'm certified with AWS I'm more than happy to learn other cloud service providers such as Azure and GCP should my job require it. I'm Committed to staying in touch with current and emerging technologies in the every cahnging IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I'm seeking to be part of a dymanic team where I can contribute my knowledge and skillset to drive projects forward while exceeding clients expectations.
 </p> 
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact
+    - dog 🐶
 
 <!---
 BenDavies1218/BenDavies1218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
