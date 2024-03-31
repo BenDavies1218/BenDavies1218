@@ -1,9 +1,12 @@
 <h1 align="center">Hey there, I’m Ben <img src="./hello_gif.gif" width=auto, height=50px></h1>
 
+I am a passionate web developer, with a creative flair!
+
 <h2>I'm all about connecting with people, so here's where you can find me</h2>
 
 [<img src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg" alt="linkedin" width="63px">](https://www.linkedin.com/in/benjamin-davies-77b05729b/) 
 [<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="insta" width="70px">](https://www.instagram.com/b3n.davies/)
+[<img src="./port.webp" width=200px, height=auto>](http://google.com.au)
 
 <h2>Learning new skills is something that empowers me checkout my current 
 repertoire</h2>
@@ -22,12 +25,12 @@ repertoire</h2>
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nextjs" width="30px" src="https://www.svgrepo.com/show/342062/next-js.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/><br><br>
 
+<p> 
+Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. While AWS I'm certified with AWS I'm more than happy to learn other cloud service providers such as Azure and GCP should my job require it. I'm Committed to staying in touch with current and emerging technologies in the IT industry to be the dev I can be. I am fimiliar with Agile project management and embrass all of its methodologies, I'm seeking to be part of a dymanic team where I can contribute my knowledge and skillset to drive projects forward while exceeding clients expectations.
+</p> 
 
-
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
