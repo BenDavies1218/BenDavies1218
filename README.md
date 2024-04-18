@@ -6,7 +6,7 @@ I am a passionate web developer, with a creative flair!
 
 [<img src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg" alt="linkedin" width="63px">](https://www.linkedin.com/in/benjamin-davies-77b05729b/) 
 [<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="insta" width="70px">](https://www.instagram.com/b3n.davies/)
-[<img src="./port.webp" width=200px, height=auto>](https://bendavies1218.github.io/Portfolio_2024/)
+<a href="https://bendavies1218.github.io/Portfolio_2024/" target="_blank"><img src="./port.webp" width=200px, height=auto></a>
 
 <h2>Learning new skills is something that empowers me checkout my current 
 repertoire</h2>
