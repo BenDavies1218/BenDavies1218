@@ -2,13 +2,13 @@
 
 I am a passionate web developer, with a creative flair!
 
-<h2>I'm all about connecting with people, so here's where you can find me</h2>
+<h2>I'm all about connecting here's where you can find me</h2>
 
 [<img src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg" alt="linkedin" width="63px">](https://www.linkedin.com/in/benjamin-davies-77b05729b/) 
 [<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="insta" width="70px">](https://www.instagram.com/b3n.davies/)
 <a href="https://bendavies1218.github.io/Portfolio_2024/" target="_blank"><img src="./port.webp" width=200px, height=auto></a>
 
-<h2>Learning new skills is something that empowers me checkout my current 
+<h2>Learning new skills is something drives me checkout my current 
 repertoire</h2>
 
 <img align="left" alt="Discord" width="30px" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" style="padding-right:10px;" />
@@ -28,11 +28,13 @@ repertoire</h2>
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/><br><br>
 
 <p> 
-Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. While I'm certified with AWS I'm more than happy to learn other cloud service providers such as Azure and GCP should my job require it. I'm Committed to staying in touch with current and emerging technologies in the every cahnging IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I'm seeking to be part of a dymanic team where I can contribute my knowledge and skillset to drive projects forward while exceeding clients expectations.
+Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. I'm love staying in touch with current and emerging technologies in the every cahnging IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I enjoy contributing my knowledge and skillset to drive projects forward while have a bit of fun.
 </p> 
 
-- ⚡ Fun fact
-    - dog 🐶
+- ⚡ Fun facts
+    - I love dogs 🐶
+    - I grew up in regional QLD 🤠
+    - I love scuba diving 🤿
 
 <!---
 BenDavies1218/BenDavies1218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
