@@ -28,7 +28,7 @@ repertoire</h2>
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/><br><br>
 
 <p> 
-Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a Certified AWS cloud practitioner, thus am capable of developing, deploying and managing cloud applications on AWS. I'm love staying in touch with current and emerging technologies in the every cahnging IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I enjoy contributing my knowledge and skillset to drive projects forward while have a bit of fun.
+Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a currently studying an AWS cloud practitioner course, I enjoy learning about developing, deploying and managing cloud applications. I'm love staying in touch with current and emerging technologies in the every cahnging IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I enjoy contributing my knowledge and skillset to drive projects forward while have a bit of fun.
 </p> 
 
 - ⚡ Fun facts
