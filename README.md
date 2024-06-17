@@ -2,9 +2,9 @@
 
 🖌️ I am a passionate web developer, with a creative flair!
 
-😄 I love building applications that provide unique user experiences, I first started coding when I build my first eccommerce website in 2022. Since then I've undertaken a Bootcamp and an now a full stack web developer. What drives me is the constant excitement of learning new technologies, connecting with other developers and building functional appliactions.
+😄 I love building applications that provide unique user experiences, I first started coding when I built my first eccommerce website in 2022. Since then I've undertaken a Bootcamp and an now a full stack web developer. What drives me is the constant excitement of learning new technologies, connecting with other developers and building functional appliactions.
 
-<h2>The most amazing thing in life is the people you meet amount the way so lets connect</h2>
+<h2>The most amazing thing in life is the people you meet! So lets connect</h2>
 
 [<img src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg" alt="linkedin" width="63px">](https://www.linkedin.com/in/benjamin-davies-77b05729b/) 
 [<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="insta" width="70px">](https://www.instagram.com/b3n.davies/)
@@ -29,7 +29,7 @@
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/><br><br>
 
 <p> 
-Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a currently studying an AWS cloud practitioner course, I enjoy learning about developing, deploying and managing cloud applications. I'm love staying in touch with current and emerging technologies in the every changing IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I enjoy contributing my knowledge and skillset to drive projects forward while having a bit of fun.
+Proficient in both front-end and back-end development technologies, including HTML5, CSS3, JavaScript, React.js, Node.js, Python, flask, Rest-API's, SQL and NoSQL databases. I'm a currently studying an AWS cloud practitioner course, I enjoy learning new stacks, developing full stack applications, deploying and managing cloud applications. I love staying in touch with current and emerging technologies in the every changing IT industry. I am fimiliar with Agile project management and embrass all of its methodologies, I enjoy contributing my knowledge and skillset to drive projects forward while having a bit of fun.
 </p> 
 
 - ⚡ Fun facts
