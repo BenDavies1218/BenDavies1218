@@ -1,69 +1,59 @@
-# Hi there, I'm Benjamin Davies 👋
+<div align="center">
 
-  Full-stack developer passionate about building
-  accessible, performant web applications and
-  blockchain solutions.
+# Hey, I'm Benjamin Davies 👋
 
-  ### Links
+**Full-stack developer passionate about building accessible, performant web applications and blockchain solutions.**
 
-  - X
-  - Dev.to
-  - Reddit
-  - Linkedin
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BenDavies1218)
+[![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/BenDavies1218)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/BenDavies1218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BenDavies1218)
 
-  ## 🚀 Featured Projects
+</div>
 
-  ### [Component Labs](https://github.com/BenDavies1218/component-labs)
-  **A modern, accessible React component library and 
-  development toolkit**
-  - Built with React 19, TypeScript, and Tailwind CSS
-  v4
-  - Features CLI installation (shadcn/ui style) and
-  NPM package options
-  - Includes component showcase tools for React and
-  Next.js
-  - 8+ accessible components with WCAG 2.1 Level AA
-  compliance
+---
 
-### [React Showcase](https://github.com/BenDavies1218/component-labs)
-  **Modern Testing Framework for React**
-    - Supports React 19
-    - Nextjs server components
+### 🛠️ Tech Stack
 
-  ### [Workcraft](https://github.com/BenDavies1218/workcraft)
-  **Project management and collaboration tool**
-  - Built with TypeScript
-  - Modern web application for team productivity
+![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
+---
 
-  ### [TanStack Course](https://github.com/BenDavies1218/tanStack-example)
-  **Example implementations of TanStack Query**
-  - Demonstrates `useQuery`, `useMutation`, and
-  `useInfiniteQuery`
-  - TypeScript-based examples
-  - Best practices for data fetching and state
-  management
+### 🚀 Featured Projects
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Component Labs](https://github.com/BenDavies1218/component-labs)** | Accessible React component library with CLI install (shadcn/ui style) & NPM package. 8+ WCAG 2.1 AA components. | `React 19` `TypeScript` `Tailwind v4` |
+| **[React Showcase](https://github.com/BenDavies1218/component-labs)** | Modern testing framework for React 19 with Next.js server component support. | `React 19` `Next.js` |
+| **[Workcraft](https://github.com/BenDavies1218/workcraft)** | Project management and collaboration tool for team productivity. | `TypeScript` |
+| **[TanStack Course](https://github.com/BenDavies1218/tanStack-example)** | Example implementations of `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices. | `TanStack Query` `TypeScript` |
+| **[Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)** | Cross-chain messaging examples and Solidity smart contracts for LayerZero protocol. | `Solidity` `LayerZero` |
 
-  ### [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
-  **Learning materials for LayerZero protocol**
-  - Solidity smart contracts
-  - Cross-chain messaging examples
-  - Educational resource for blockchain development
+---
 
-  ## 📫 Get In Touch
+### 📊 GitHub Stats
 
-  - GitHub:
-  [@BenDavies1218](https://github.com/BenDavies1218)
+<div align="center">
 
-  ---
+<img src="https://github-readme-stats.vercel.app/api?username=BenDavies1218&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BenDavies1218&theme=tokyonight&hide_border=true" height="165" />
 
-  ## ☕ Buy me a coffee
+</div>
 
-  - GitHub:
-  
-  [Purchase Coffee](https://buymeacoffee.com/bendavies)
+---
 
-  ---
+<div align="center">
 
-  **Shipping one commit at a time** 🚀
+### 📫 Get In Touch
+
+**Shipping one commit at a time** 🚀
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenDavies1218)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/bendavies)
+
+</div>
