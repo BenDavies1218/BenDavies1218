@@ -96,7 +96,6 @@ Educational resource for LayerZero protocol development. Solidity smart contract
 
 <div align="center">
 
-<img src="https://github-readme-stats-bendavies1218.vercel.app/api?username=BenDavies1218&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://streak-stats.demolab.com?user=BenDavies1218&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
