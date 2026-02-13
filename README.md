@@ -2,7 +2,7 @@
 
 # Hey, I'm Benjamin Davies 👋
 
-**Full-stack developer passionate about building accessible, performant web applications and blockchain solutions.**
+**Trailblazer, Genius, Visionary, Philosopher, Maestro & Full-stack Engineer**
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bdavies196)
 [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ben_davies)
