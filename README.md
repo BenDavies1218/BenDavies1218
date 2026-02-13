@@ -33,7 +33,11 @@
 <table>
 <tr><td>
 
-### 🧩 [Component Labs](https://github.com/BenDavies1218/component-labs)
+### 🧩 Component Labs
+Repository: [https://github.com/BenDavies1218/component-labs](https://github.com/BenDavies1218/component-labs)
+<br>
+<br>
+[Component-labs.com](https://component-labs.com)
 
 A modern, accessible React component library and development toolkit. Features CLI installation (shadcn/ui style) and NPM package options with 8+ WCAG 2.1 Level AA compliant components.
 
@@ -104,10 +108,12 @@ Educational resource for LayerZero protocol development. Solidity smart contract
 
 <div align="center">
 
-### 📫 Get In Touch
-
 **Shipping one commit at a time** 🚀
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/bendavies)
+
+
+
+  
 
 </div>
