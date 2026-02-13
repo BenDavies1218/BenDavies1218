@@ -26,13 +26,35 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Component Labs](https://github.com/BenDavies1218/component-labs)** | Accessible React component library with CLI install (shadcn/ui style) & NPM package. 8+ WCAG 2.1 AA components. | `React 19` `TypeScript` `Tailwind v4` |
-| **[React Showcase](https://github.com/BenDavies1218/component-labs)** | Modern testing framework for React 19 with Next.js server component support. | `React 19` `Next.js` |
-| **[Workcraft](https://github.com/BenDavies1218/workcraft)** | Project management and collaboration tool for team productivity. | `TypeScript` |
-| **[TanStack Course](https://github.com/BenDavies1218/tanStack-example)** | Example implementations of `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices. | `TanStack Query` `TypeScript` |
-| **[Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)** | Cross-chain messaging examples and Solidity smart contracts for LayerZero protocol. | `Solidity` `LayerZero` |
+> ### 🧩 [Component Labs](https://github.com/BenDavies1218/component-labs)
+> 
+> A modern, accessible React component library and development toolkit. Features CLI installation (shadcn/ui style) and NPM package options with 8+ WCAG 2.1 Level AA compliant components.
+> 
+> ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white) ![Accessibility](https://img.shields.io/badge/WCAG_2.1_AA-%23005A9C.svg?style=flat-square&logo=w3c&logoColor=white)
+
+> ### ⚡ [React Showcase](https://github.com/BenDavies1218/component-labs)
+> 
+> Modern testing framework for React 19 with full support for Next.js server components. Build, preview, and test your components in isolation.
+> 
+> ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+
+> ### 📋 [Workcraft](https://github.com/BenDavies1218/workcraft)
+> 
+> Project management and collaboration tool built for modern team productivity. Clean interface, real-time updates, and seamless workflows.
+> 
+> ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+
+> ### 📚 [TanStack Course](https://github.com/BenDavies1218/tanStack-example)
+> 
+> Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices for data fetching and state management.
+> 
+> ![TanStack](https://img.shields.io/badge/TanStack_Query-%23EF4444.svg?style=flat-square&logo=reactquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+
+> ### 🔗 [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
+> 
+> Educational resource for LayerZero protocol development. Solidity smart contracts and cross-chain messaging examples for blockchain devs.
+> 
+> ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![LayerZero](https://img.shields.io/badge/LayerZero-%231E1E1E.svg?style=flat-square&logoColor=white)
 
 ---
 
