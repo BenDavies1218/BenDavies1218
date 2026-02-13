@@ -4,6 +4,13 @@
   accessible, performant web applications and
   blockchain solutions.
 
+  ### Links
+
+  - X
+  - Dev.to
+  - Reddit
+  - Linkedin
+
   ## 🚀 Featured Projects
 
   ### [Component Labs](https://github.com/BenDavies1218/component-labs)
@@ -18,6 +25,10 @@
   - 8+ accessible components with WCAG 2.1 Level AA
   compliance
 
+### [React Showcase](https://github.com/BenDavies1218/component-labs)
+  **Modern Testing Framework for React**
+    - Supports React 19
+    - Nextjs server components
 
   ### [Workcraft](https://github.com/BenDavies1218/workcraft)
   **Project management and collaboration tool**
