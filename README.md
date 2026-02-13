@@ -6,8 +6,7 @@
 
   ## 🚀 Featured Projects
 
-  ### [Component Labs](https://github.com/BenDavies121
-  8/component-labs)
+  ### [Component Labs](https://github.com/BenDavies1218/component-labs)
   **A modern, accessible React component library and 
   development toolkit**
   - Built with React 19, TypeScript, and Tailwind CSS
@@ -20,15 +19,13 @@
   compliance
 
 
-  ### [Workcraft](https://github.com/BenDavies1218/wor
-  kcraft)
+  ### [Workcraft](https://github.com/BenDavies1218/workcraft)
   **Project management and collaboration tool**
   - Built with TypeScript
   - Modern web application for team productivity
 
 
-  ### [TanStack Course](https://github.com/BenDavies1
-  218/tanStack-example)
+  ### [TanStack Course](https://github.com/BenDavies1218/tanStack-example)
   **Example implementations of TanStack Query**
   - Demonstrates `useQuery`, `useMutation`, and
   `useInfiniteQuery`
@@ -37,8 +34,7 @@
   management
 
 
-  ### [Layer Zero Course](https://github.com/BenDavies
-  1218/layer-zero-course)
+  ### [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
   **Learning materials for LayerZero protocol**
   - Solidity smart contracts
   - Cross-chain messaging examples
