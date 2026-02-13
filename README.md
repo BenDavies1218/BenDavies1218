@@ -40,31 +40,18 @@
   - Cross-chain messaging examples
   - Educational resource for blockchain development
 
-  ## 🛠️ Tech Stack
-
-  **Frontend:**
-  - React, Next.js, TypeScript
-  - Tailwind CSS v4
-  - Vite
-
-  **Backend:**
-  - Node.js, TypeScript
-  - API development
-
-  **Blockchain:**
-  - Solidity
-  - LayerZero protocol
-  - DeFi applications
-
-  **Tools & Platforms:**
-  - pnpm, npm
-  - Git, GitHub
-  - Vitest
-
   ## 📫 Get In Touch
 
   - GitHub:
   [@BenDavies1218](https://github.com/BenDavies1218)
+
+  ---
+
+  ## ☕ Buy me a coffee
+
+  - GitHub:
+  
+  [Purchase Coffee](https://buymeacoffee.com/bendavies)
 
   ---
 
