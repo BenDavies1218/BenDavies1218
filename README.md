@@ -2,7 +2,7 @@
 
 # Hey, I'm Benjamin Davies 👋
 
-**Trailblazer, Genius, Visionary, Philosopher, Maestro & Full-stack Engineer**
+**Trailblazer, Visionary, Philosopher, Maestro & Full-stack Engineer**
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bdavies196)
 [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ben_davies)
@@ -15,16 +15,16 @@
 
 ### 🛠️ Tech Stack
 
-  ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-  ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=flat-square&logo=web3dotjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=flat-square&logo=web3dotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -33,7 +33,22 @@
 <table>
 <tr><td>
 
+### 🔒 [envlock](https://github.com/BenDavies1218/dotenvx-example)
+
+Secure secret injection for any language — encrypted `.env` files + 1Password, zero secrets ever written to disk.
+
+[envlock showcase](https://bendavies1218.github.io/dotenvx-example/)
+
+[![npm](https://img.shields.io/badge/npm-envlock--core-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/envlock-core) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
 ### 🧩 Component Labs
+
 Repository: [https://github.com/BenDavies1218/component-labs](https://github.com/BenDavies1218/component-labs)
 <br>
 <br>
@@ -54,18 +69,6 @@ A modern, accessible React component library and development toolkit. Features C
 Modern testing framework for React 19 with full support for Next.js server components. Build, preview, and test your components in isolation.
 
 ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-### 📋 [Workcraft](https://github.com/BenDavies1218/workcraft)
-
-Project management and collaboration tool built for modern team productivity. Clean interface, real-time updates, and seamless workflows.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 
 </td></tr>
 </table>
@@ -111,9 +114,5 @@ Educational resource for LayerZero protocol development. Solidity smart contract
 **Shipping one commit at a time** 🚀
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/bendavies)
-
-
-
-  
 
 </div>
