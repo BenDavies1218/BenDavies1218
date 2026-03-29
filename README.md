@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
@@ -26,12 +24,9 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
-
 ### 🚀 Featured Projects
 
-<table>
-<tr><td>
+---
 
 ### 🔒 [envlock](https://github.com/BenDavies1218/dotenvx-example)
 
@@ -41,11 +36,7 @@ Secure secret injection for any language — encrypted `.env` files + 1Password,
 
 [![npm](https://img.shields.io/badge/npm-envlock--core-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/envlock-core) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
+---
 
 ### 🧩 Component Labs
 
@@ -58,11 +49,7 @@ A modern, accessible React component library and development toolkit. Features C
 
 ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white) ![Accessibility](https://img.shields.io/badge/WCAG_2.1_AA-%23005A9C.svg?style=flat-square&logo=w3c&logoColor=white)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
+---
 
 ### ⚡ [React Showcase](https://github.com/BenDavies1218/component-labs)
 
@@ -70,32 +57,21 @@ Modern testing framework for React 19 with full support for Next.js server compo
 
 ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
 
-</td></tr>
-</table>
+---
 
-<table>
-<tr><td>
-
-### 📚 [TanStack Course](https://github.com/BenDavies1218/tanStack-example)
+### 📚 [TanStack Query Course](https://github.com/BenDavies1218/tanStack-example)
 
 Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices for data fetching and state management.
 
 ![TanStack](https://img.shields.io/badge/TanStack_Query-%23EF4444.svg?style=flat-square&logo=reactquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
+---
 
 ### 🔗 [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
 
 Educational resource for LayerZero protocol development. Solidity smart contracts and cross-chain messaging examples for blockchain devs.
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![LayerZero](https://img.shields.io/badge/LayerZero-%231E1E1E.svg?style=flat-square&logoColor=white)
-
-</td></tr>
-</table>
 
 ---
 
