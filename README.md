@@ -32,7 +32,7 @@
 
 Secure secret injection for any language — encrypted `.env` files + 1Password, zero secrets ever written to disk.
 
-[envlock showcase](https://bendavies1218.github.io/dotenvx-example/)
+[Read more](https://bendavies1218.github.io/envlock-examples/)
 
 [![npm](https://img.shields.io/badge/npm-envlock--core-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/envlock-core) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
