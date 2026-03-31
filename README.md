@@ -11,7 +11,7 @@
 
 </div>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
@@ -24,7 +24,7 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🔍 [Gitdex - Semantic Search](https://github.com/BenDavies1218/gitdex-semantic-search)
 
@@ -38,7 +38,7 @@ Local semantic code search for LLM-assisted development — indexes your Git rep
 
 ---
 
-#### 🔒 [Envlock](https://github.com/BenDavies1218/dotenvx-example)
+#### [Envlock](https://github.com/BenDavies1218/dotenvx-example)
 
 Secure secret injection for any language — encrypted `.env` files + 1Password, zero secrets ever written to disk.
 
@@ -48,7 +48,7 @@ Secure secret injection for any language — encrypted `.env` files + 1Password,
 
 ---
 
-#### 🧩 Component Labs
+#### Component Labs
 
 [Component-labs.com](https://component-labs.com)
 <br>
@@ -61,7 +61,7 @@ A modern, accessible React component library and development toolkit. Features C
 
 ---
 
-#### ⚡ [React Showcase](https://github.com/BenDavies1218/component-labs)
+#### [React Showcase](https://github.com/BenDavies1218/component-labs)
 
 Modern testing framework for React 19 with full support for Next.js server components. Build, preview, and test your components in isolation.
 
@@ -69,7 +69,7 @@ Modern testing framework for React 19 with full support for Next.js server compo
 
 ---
 
-#### 📚 [TanStack Query Course](https://github.com/BenDavies1218/tanStack-example)
+#### [TanStack Query Course](https://github.com/BenDavies1218/tanStack-example)
 
 Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices for data fetching and state management.
 
@@ -77,7 +77,7 @@ Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery
 
 ---
 
-#### 🔗 [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
+#### [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
 
 Educational resource for LayerZero protocol development. Solidity smart contracts and cross-chain messaging examples for blockchain devs.
 
@@ -85,7 +85,7 @@ Educational resource for LayerZero protocol development. Solidity smart contract
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
