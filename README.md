@@ -26,24 +26,34 @@
 
 ### 🚀 Featured Projects
 
+#### 🔍 [Gitdex - Semantic Search](https://github.com/BenDavies1218/gitdex-semantic-search)
+
 ---
 
-### 🔒 [envlock](https://github.com/BenDavies1218/dotenvx-example)
+Local semantic code search for LLM-assisted development — indexes your Git repo with tree-sitter AST parsing and vector embeddings, then exposes natural language search via MCP tools compatible with Claude Code, Cursor, or any MCP client.
+
+[Repository](https://github.com/BenDavies1218/gitdex-semantic-search)
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-%23DC244C.svg?style=flat-square&logo=qdrant&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logoColor=white)
+
+---
+
+#### 🔒 [Envlock](https://github.com/BenDavies1218/dotenvx-example)
 
 Secure secret injection for any language — encrypted `.env` files + 1Password, zero secrets ever written to disk.
 
-[Read more](https://bendavies1218.github.io/envlock-examples/)
+[Documentation](https://bendavies1218.github.io/envlock-examples/)
 
 [![npm](https://img.shields.io/badge/npm-envlock--core-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/envlock-core) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
-### 🧩 Component Labs
+#### 🧩 Component Labs
 
-Repository: [https://github.com/BenDavies1218/component-labs](https://github.com/BenDavies1218/component-labs)
-<br>
-<br>
 [Component-labs.com](https://component-labs.com)
+<br>
+
+[Repository](https://github.com/BenDavies1218/component-labs)
 
 A modern, accessible React component library and development toolkit. Features CLI installation (shadcn/ui style) and NPM package options with 8+ WCAG 2.1 Level AA compliant components.
 
@@ -51,7 +61,7 @@ A modern, accessible React component library and development toolkit. Features C
 
 ---
 
-### ⚡ [React Showcase](https://github.com/BenDavies1218/component-labs)
+#### ⚡ [React Showcase](https://github.com/BenDavies1218/component-labs)
 
 Modern testing framework for React 19 with full support for Next.js server components. Build, preview, and test your components in isolation.
 
@@ -59,7 +69,7 @@ Modern testing framework for React 19 with full support for Next.js server compo
 
 ---
 
-### 📚 [TanStack Query Course](https://github.com/BenDavies1218/tanStack-example)
+#### 📚 [TanStack Query Course](https://github.com/BenDavies1218/tanStack-example)
 
 Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery` with best practices for data fetching and state management.
 
@@ -67,7 +77,7 @@ Hands-on examples demonstrating `useQuery`, `useMutation`, and `useInfiniteQuery
 
 ---
 
-### 🔗 [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
+#### 🔗 [Layer Zero Course](https://github.com/BenDavies1218/layer-zero-course)
 
 Educational resource for LayerZero protocol development. Solidity smart contracts and cross-chain messaging examples for blockchain devs.
 
