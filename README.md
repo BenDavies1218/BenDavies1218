@@ -23,8 +23,21 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Featured Projects
+
+#### 🛠️ [Actually Free Tools](https://actuallyfreetools.dev)
+
+Free, browser-based PDF editor, background remover, and photo editor — no uploads, no accounts, no backend. Everything runs client-side.
+
+[Live Site](https://actuallyfreetools.dev) · [Repository](https://github.com/BenDavies1218/actually-free-pdf-editor)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
 
 #### 🔍 [Gitdex - Semantic Search](https://github.com/BenDavies1218/gitdex-semantic-search)
 
