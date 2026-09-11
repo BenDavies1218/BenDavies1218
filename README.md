@@ -41,8 +41,6 @@ Free, browser-based PDF editor, background remover, and photo editor — no uplo
 
 #### 🔍 [Gitdex - Semantic Search](https://github.com/BenDavies1218/gitdex-semantic-search)
 
----
-
 Local semantic code search for LLM-assisted development — indexes your Git repo with tree-sitter AST parsing and vector embeddings, then exposes natural language search via MCP tools compatible with Claude Code, Cursor, or any MCP client.
 
 [Repository](https://github.com/BenDavies1218/gitdex-semantic-search)
