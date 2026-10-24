@@ -29,6 +29,16 @@
 
 ### Featured Projects
 
+#### 🛡️ [aibox](https://github.com/BenDavies1218/aibox)
+
+Run any open-weight AI model as if it were hostile, and watch everything it does. One binary puts a local GGUF model in a locked-down sandbox: a seccomp supervisor reports every process and syscall before it runs, a gateway inspects and blocks outbound traffic, and a live dashboard shows it all. macOS and Linux.
+
+[Repository](https://github.com/BenDavies1218/aibox)
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React_19-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-%23000000.svg?style=flat-square&logoColor=white)
+
+---
+
 #### 🛠️ [Actually Free Tools](https://actuallyfreetools.dev)
 
 Free, browser-based PDF editor, background remover, and photo editor — no uploads, no accounts, no backend. Everything runs client-side.
